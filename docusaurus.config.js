@@ -22,13 +22,13 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'development/intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Get Started',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Mast-Art-Studios',
           label: 'GitHub',
           position: 'right',
         },
@@ -41,8 +41,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Contributions',
+              to: '/docs/development/contributions',
             },
           ],
         },
@@ -50,8 +50,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'GitHub',
+              href: 'https://github.com/Mast-Art-Studios',
             },
             {
               label: 'Discord',
@@ -70,14 +70,10 @@ module.exports = {
               label: 'Blog',
               to: '/blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Mast Art Studios. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
