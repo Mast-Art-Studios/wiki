@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mast Art Studios Blog</title>
+        <link>https://mast-art-studios.github.io/wiki/blog</link>
+        <description>Mast Art Studios Blog</description>
+        <lastBuildDate>Sun, 09 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://mast-art-studios.github.io/wiki/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello there! I am hopefully going to start getting serious of developing this side project into a full fledge functioning web application.]]></description>
+        </item>
+    </channel>
+</rss>

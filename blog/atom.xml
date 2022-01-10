@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mast-art-studios.github.io/wiki/blog</id>
+    <title>Mast Art Studios Blog</title>
+    <updated>2022-01-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mast-art-studios.github.io/wiki/blog"/>
+    <subtitle>Mast Art Studios Blog</subtitle>
+    <icon>https://mast-art-studios.github.io/wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://mast-art-studios.github.io/wiki/blog/welcome"/>
+        <updated>2022-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello there! I am hopefully going to start getting serious of developing this side project into a full fledge functioning web application.]]></summary>
+    </entry>
+</feed>
