@@ -14,10 +14,10 @@ module.exports = {
   projectName: 'wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Mast Art Studio',
+      title: 'Mast Art Studios',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/MASt_Logo.png',
       },
       items: [
         {
